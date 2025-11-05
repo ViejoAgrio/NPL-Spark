@@ -1,0 +1,2 @@
+F1 Score,Accuracy,Documentos de entrenamiento,Documentos de validación,Número de temas,Predicciones correctas,Predicciones incorrectas,Épocas
+0.6452,0.6475,6716,1685,12,1091,564,100
